@@ -1,0 +1,15 @@
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\obj\Debug\net6.0\Bebronimo7.csproj.AssemblyReference.cache
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\obj\Debug\net6.0\Bebronimo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\obj\Debug\net6.0\Bebronimo7.AssemblyInfoInputs.cache
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\obj\Debug\net6.0\Bebronimo7.AssemblyInfo.cs
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\obj\Debug\net6.0\Bebronimo7.csproj.CoreCompileInputs.cache
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\bin\Debug\net6.0\Bebronimo7.exe
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\bin\Debug\net6.0\Bebronimo7.deps.json
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\bin\Debug\net6.0\Bebronimo7.runtimeconfig.json
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\bin\Debug\net6.0\Bebronimo7.dll
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\bin\Debug\net6.0\Bebronimo7.pdb
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\obj\Debug\net6.0\Bebronimo7.dll
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\obj\Debug\net6.0\refint\Bebronimo7.dll
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\obj\Debug\net6.0\Bebronimo7.pdb
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\obj\Debug\net6.0\Bebronimo7.genruntimeconfig.cache
+C:\Users\shavuh1n\source\repos\Bebronimo7\Bebronimo7\obj\Debug\net6.0\ref\Bebronimo7.dll
